@@ -1,3 +1,5 @@
+#Implements Q learning for a warehouse
+
 import numpy as np
 
 
