@@ -104,5 +104,3 @@ for i in range(1000):
 
 
 print(shortest_path(3,9))
-#print(shortest_path(5,0))
-#print(shortest_path(9,5))
